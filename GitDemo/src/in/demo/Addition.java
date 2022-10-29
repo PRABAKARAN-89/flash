@@ -6,9 +6,12 @@ public class Addition {
 			
 		final int numberFirst = 10;
 		final int numberSecond = 10;
-		final int result = numberFirst + numberSecond;
+		final int resultSum = numberFirst + numberSecond;
+		final int resultMinus = numberFirst + numberSecond;
+
 		
-		System.out.println("Result is: " +result);
+		System.out.println("Result is: " +resultSum);
+		System.out.println("Result is: " +resultMinus);
 
 	}
 
